@@ -1,0 +1,42 @@
+{
+  "name": "code-annotate-plugin",
+  "version": "1.0.0",
+  "description": "simplify plugin creation for code-annotate",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "debug": "^2.1.0",
+    "lodash": "2.4.x"
+  },
+  "devDependencies": {
+    "del": "^0.1.3",
+    "gulp": "^3.8.10",
+    "gulp-coverage": "^0.3.31",
+    "gulp-coveralls": "^0.1.3",
+    "gulp-jshint": "^1.9.0",
+    "gulp-livereload": "^2.1.1",
+    "gulp-load-plugins": "^0.7.1",
+    "gulp-mocha": "^1.1.1",
+    "gulp-plumber": "^0.6.6",
+    "jshint-table-reporter": "^0.1.0",
+    "opn": "^1.0.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bline/code-annotate-plugin.git"
+  },
+  "keywords": [
+    "code-annotate"
+  ],
+  "author": "Scott Beck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bline/code-annotate-plugin/issues"
+  },
+  "homepage": "https://github.com/bline/code-annotate-plugin"
+}
