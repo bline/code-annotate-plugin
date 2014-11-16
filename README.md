@@ -1,4 +1,7 @@
-code-annotate-plugin-base
+code-annotate-plugin
 =========================
 
-base class for code-annotate plugins
+easily create plugins for code-annotate
+
+examples to come
+
